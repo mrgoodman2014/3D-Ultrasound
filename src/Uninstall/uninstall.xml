@@ -1,0 +1,316 @@
+<SUF70UninstallData>
+<DataFilePath>D:\Program Files\三维超声\Uninstall\uninstall.dat</DataFilePath>
+<CPRegKey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\三维超声图像可视化处理软件1.0</CPRegKey>
+<EXELocation>C:\WINDOWS\三维超声图像可视化处理软件\uninstall.exe</EXELocation>
+<UninstallFiles>
+<File>
+<Filename>D:\Program Files\三维超声\check_face_vertex.m</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\compute_edges.m</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\compute_edge_face_ring.m</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\compute_face_ring.m</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\compute_vertex_face_ring.m</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\compute_vertex_ring.m</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\dc7kr_rest.raw</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\deleteunwantted.m</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\disp_f.m</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\fea_select.m</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\filtercut.m</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\newctfig.m</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\patch2stl.m</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\read_rawours.m</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\yt.bmp</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\ytami.mat</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\工程1.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>D:\Program Files\三维超声\工程1.vbp</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+</UninstallFiles>
+<UninstallShortcuts>
+<Filename>C:\Documents and Settings\Administrator\「开始」菜单\程序\三维超声图像可视化处理软件\UltraSound3D.lnk</Filename>
+<Filename>C:\Documents and Settings\Administrator\「开始」菜单\程序\三维超声图像可视化处理软件\卸载 三维超声图像可视化处理软件.lnk</Filename>
+</UninstallShortcuts>
+<UninstallSupportFiles>
+<Filename>D:\Program Files\三维超声\Uninstall\IRIMG1.JPG</Filename>
+<Filename>D:\Program Files\三维超声\Uninstall\IRIMG2.JPG</Filename>
+</UninstallSupportFiles>
+<UninstallFolders>
+<FolderPath>C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ir_sf7_temp_0\vb6sp6</FolderPath>
+<FolderPath>D:\Program Files\三维超声</FolderPath>
+<FolderPath>D:\Program Files\三维超声\Uninstall</FolderPath>
+<FolderPath>C:\WINDOWS\三维超声图像可视化处理软件</FolderPath>
+<FolderPath>C:\Documents and Settings\Administrator\「开始」菜单\程序\三维超声图像可视化处理软件</FolderPath>
+</UninstallFolders>
+<SessionVars>
+<Var>
+<Name>%ProductName%</Name>
+<Value>三维超声图像可视化处理软件</Value>
+</Var>
+<Var>
+<Name>%CompanyName%</Name>
+<Value>DUT</Value>
+</Var>
+<Var>
+<Name>%ProductVer%</Name>
+<Value>1.0</Value>
+</Var>
+<Var>
+<Name>%Copyright%</Name>
+<Value>版权 (C)2005 %CompanyName%</Value>
+</Var>
+<Var>
+<Name>%CompanyURL%</Name>
+<Value></Value>
+</Var>
+<Var>
+<Name>%WindowTitle%</Name>
+<Value>%ProductName% 安装</Value>
+</Var>
+<Var>
+<Name>%AppFolder%</Name>
+<Value>D:\Program Files\三维超声</Value>
+</Var>
+<Var>
+<Name>%AppShortcutFolderName%</Name>
+<Value>三维超声图像可视化处理软件</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\Application Data</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder%</Name>
+<Value>C:\Program Files\Common Files</Value>
+</Var>
+<Var>
+<Name>%DesktopFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\桌面</Value>
+</Var>
+<Var>
+<Name>%DesktopFolderCommon%</Name>
+<Value>C:\Documents and Settings\All Users\桌面</Value>
+</Var>
+<Var>
+<Name>%FontsFolder%</Name>
+<Value>C:\WINDOWS\Fonts</Value>
+</Var>
+<Var>
+<Name>%MyDocumentsFolder%</Name>
+<Value>E:\我的文档</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder%</Name>
+<Value>C:\Program Files</Value>
+</Var>
+<Var>
+<Name>%StartFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\「开始」菜单</Value>
+</Var>
+<Var>
+<Name>%StartFolderCommon%</Name>
+<Value>C:\Documents and Settings\All Users\「开始」菜单</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\「开始」菜单\程序</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolderCommon%</Name>
+<Value>C:\Documents and Settings\All Users\「开始」菜单\程序</Value>
+</Var>
+<Var>
+<Name>%StartupFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\「开始」菜单\程序\启动</Value>
+</Var>
+<Var>
+<Name>%StartupFolderCommon%</Name>
+<Value>C:\Documents and Settings\All Users\「开始」菜单\程序\启动</Value>
+</Var>
+<Var>
+<Name>%SystemFolder%</Name>
+<Value>C:\WINDOWS\system32</Value>
+</Var>
+<Var>
+<Name>%WindowsFolder%</Name>
+<Value>C:\WINDOWS</Value>
+</Var>
+<Var>
+<Name>%SystemDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%TempFolder%</Name>
+<Value>C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp</Value>
+</Var>
+<Var>
+<Name>%TempLaunchFolder%</Name>
+<Value>C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\_ir_sf7_temp_0</Value>
+</Var>
+<Var>
+<Name>%RegOwner%</Name>
+<Value>番茄花园</Value>
+</Var>
+<Var>
+<Name>%RegOrganization%</Name>
+<Value>番茄花园</Value>
+</Var>
+<Var>
+<Name>%AppDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%DAOPath%</Name>
+<Value>C:\Program Files\Common Files\Microsoft Shared\DAO</Value>
+</Var>
+<Var>
+<Name>%SourceFilename%</Name>
+<Value>C:\Documents and Settings\Administrator\桌面\三维超声-DUT 杨通-刘志鹏-沙剑.exe</Value>
+</Var>
+<Var>
+<Name>%SourceFolder%</Name>
+<Value>C:\Documents and Settings\Administrator\桌面</Value>
+</Var>
+<Var>
+<Name>%SourceDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%UserName%</Name>
+<Value>番茄花园</Value>
+</Var>
+<Var>
+<Name>%UserCompany%</Name>
+<Value>番茄花园</Value>
+</Var>
+<Var>
+<Name>%SpaceAvailable%</Name>
+<Value>7.33 GB</Value>
+</Var>
+<Var>
+<Name>%SpaceRequired%</Name>
+<Value>13.3 MB</Value>
+</Var>
+</SessionVars>
+</SUF70UninstallData>
